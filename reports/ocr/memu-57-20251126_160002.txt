@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-26 16:00:03
+Index: 57
+ADB: 127.0.0.1:22073
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-57-20251126_160002.png
+
+---- OCR ----
+Yesterday's Duel Victo WIN vow ForceCollective Points Ranking +117.8%) 4,561 +277.8%) 3,921 +117.8%) 5 +131.4%)

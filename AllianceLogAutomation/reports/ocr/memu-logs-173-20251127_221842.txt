@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 22:18:42
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-173-20251127_221841457.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-173-20251127_221842443.png
+
+---- Alliance Logs OCR (retry) ----
+4 LV.22g• [LB2f1AguSch el juego es divertido y disfruto 11-16 23:52 VULV.20& [LB2f]Farm Icarus yes value at $20 per 1000M woo••• 11-04 11:20 VULV.27 [GRS1]mac957 [OWNb]Mac Farm Nissu [State 1•• 10-29 13:48 LV.30 [OWNIPigwin ya , la niss te envio solicitud 10-28 10:52 V 10 LV.30 [HVi1Xavit 10-27 00:34 VULV.23 [LB2f]Hillbillyexpres Have a great day! 10-26 02:16 V LV.22& [LB2f]Spikey96 Have a great day! 10-26 00:38 Start Group Chat

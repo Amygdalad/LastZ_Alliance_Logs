@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 23:44:41
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_234440.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Privilege Vü 30 Days 1. Get an extra marchina queue! 2. Get Wanderer Avatar Frame & Chat *.UÄlißops gain a 20% boost for both ATK a.néGfirade License to send 3 Wandering Traders to ally shelters daily for Daily Gift

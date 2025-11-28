@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 20:40:48
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-57-20251127_204046802.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-57-20251127_204047259.png
+
+---- Alliance Logs OCR ----
+Conßßtulqtlons! Hero EXP Food
+
+Congr@tulations! Wood Food Bounty Mlsslon Chest 183.9K Hero EXP
+Conßßtulqtlons!
+Hero EXP Food
+
+
+

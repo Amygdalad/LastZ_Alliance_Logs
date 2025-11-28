@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 19:58:52
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-57-20251127_195851901.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-57-20251127_195851901.png
+
+---- Alliance Logs OCR ----
+

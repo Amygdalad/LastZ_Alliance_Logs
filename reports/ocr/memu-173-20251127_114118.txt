@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 11:41:21
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_114118.png
+DismissedBrightSpot: X=511,Y=124,Sum=765
+
+---- OCR ----
+158.6M 0•.18.40 ,2 , creeps Complete) Her • [LB21Bobby the farm Farm Nissu. The turkey escaped un••• Center ot' nts Season ilia Mail World

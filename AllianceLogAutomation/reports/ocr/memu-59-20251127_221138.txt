@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:11:45
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_221138.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+App Res ver:1d3s.1678 SURVIVAL skooYER Loading 17% Upgrade the Bookstore to boost research speed.

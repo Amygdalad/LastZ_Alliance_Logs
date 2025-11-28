@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 21:09:51
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_210842.png
+DismissedBrightSpot: X=331,Y=826,Sum=765
+
+---- OCR ----
+Items Warehouse qulpmen 43 ••••••172 esources peed 647 121.0K 43 54,9i8 10 190 27,394 Glory Badge Obtainable from the Hero Battlefield, used for redeeming great items. .11 Statistics

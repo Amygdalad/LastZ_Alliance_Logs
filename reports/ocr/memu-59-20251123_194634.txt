@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-23 19:46:35
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.google.android.setupwizard
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-59-20251123_194634.png
+
+---- OCR ----
+Search Games and Apps Tools Bus Simulat(k Play Garnes Indian Bikes Play Store Brawl Stars Settings Last Z: SurvivaL PUBG MOBILE Love and

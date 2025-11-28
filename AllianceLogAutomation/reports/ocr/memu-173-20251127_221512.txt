@@ -1,0 +1,12 @@
+﻿Timestamp: 2025-11-27 22:16:26
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_221512.png
+DismissedBrightSpot: X=340,Y=898,Sum=765
+
+---- OCR ----
+Chat o2 e
+2sident Sir Panther appointed sSsSs as Military Co
+No new messages
+

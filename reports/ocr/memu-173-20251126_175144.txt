@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 17:51:45
+Index: 173
+ADB: 127.0.0.1:23233
+Package: (none)
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251126_175144.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+(OCR failed: Exception calling "Wait" with "0" argument(s): "One or more errors occurred.")

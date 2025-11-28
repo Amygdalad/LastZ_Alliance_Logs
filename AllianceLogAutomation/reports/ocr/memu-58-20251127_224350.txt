@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:43:56
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-58-20251127_224350.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+2025-11-28 • 09:46:47 • 09:36:59 • 09:35:37 • 09:34:24 • 09:32:29 • 09:30:32 Logs AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492) • AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492) • AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y :492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y :492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 y:492).

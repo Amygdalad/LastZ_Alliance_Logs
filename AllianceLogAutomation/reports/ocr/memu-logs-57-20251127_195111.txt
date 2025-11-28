@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 19:51:11
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-57-20251127_195109882.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-57-20251127_195111465.png
+
+---- Alliance Logs OCR (retry) ----
+•23:53: ispatch 3•lntercity Trade truchs (Complete) I now have over 1k for each typ••• e• sor Mail

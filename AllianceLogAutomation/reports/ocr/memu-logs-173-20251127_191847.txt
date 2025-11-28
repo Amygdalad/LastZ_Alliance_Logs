@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 19:18:47
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-173-20251127_191846373.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-173-20251127_191847420.png
+
+---- Alliance Logs OCR (retry) ----
+1.0K Obtain Wood upon use. 10.0K 10,000 Wood Obtain Wood upon use. 1 Wood Obtain Wood upon use. 50.0K 50,000 Wood Obtain Wood upon use. 150.0K 150,000 Wood Obtain Wood upon use. 500.0K 500,000 Wood Obtain Wood upon use. 9 Use— —Use Purchase Use Purchase Use • 40 — urc as u_lse urc as RUs @350— z.s„4.99

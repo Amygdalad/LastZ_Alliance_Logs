@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:34:57
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_133454345.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_133456735.png
+
+---- Alliance Logs OCR ----
+L v. 12 Sandsoul Sandsoul Output 1,14 Farm ccct [OWNb1GIobe Farm CCCC e Holder Influence [GRS1]Wans Ar First Down Reward 1000 03 Monster Virus Resist: My Virus Resist: 65 A Required Virus Resist: 30/2,: Team up:and defeat 2- , VARANScout Boomer (Complete) Pig Farm Nissu: [LB21Bobby the farm Attack War
+

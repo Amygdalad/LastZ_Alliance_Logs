@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 21:06:59
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251127_210657299.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251127_210658081.png
+
+---- Alliance Logs OCR ----
+kToday's 2.500 8 8,000 8 02:53:04 i*fi 24.000 Perform any of the following actions to obtain Points. insume 1 Modification Blueprints •nsume 1 golden wrenches Team up and Kill a Lv.9-10 Boomer Kill 1 Lv.19-21 zombie ly packs containing Diamonds [1 Diamonds] 4 + 600 + 2,000 + 960 Räiikiijg
+
+Today"- 1 0 2.500 8,000 18 02:53:04 i±fi 24.000 Perform any of the following actions to obtain Points. msume 1 Modification Blueprints insume I golden wrenches Team up and Kill a Lv.9-IO Boomer Kill 1 Lv.19-21 zombie IY packs containing Diamonds II Diamonds] 4 + 600 + 2,000 + 960 Ranking
+...Medal" 18
+2,500 8,000 02:53:04 24,000
+Perform any of the following actions to obtain Points. insume 1 Modification Blueprints •nsume 1 golden wrenches + 600
+Team up and Kill a Lv.9-10 Boomer Kill 1 Lv.19-21 zombie ly packs containing Diamonds [1 Diamonds] 4 + 2,000 + 960 Räiihiljg
+

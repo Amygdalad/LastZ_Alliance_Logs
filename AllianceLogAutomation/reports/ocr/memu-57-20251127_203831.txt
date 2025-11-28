@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 20:39:02
+Index: 57
+ADB: 127.0.0.1:22073
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-57-20251127_203831.png
+DismissedBrightSpot: X=462,Y=124,Sum=765
+
+---- OCR ----
+@ 36/36 Lv.18 411/1,000 VIV CTRL. 02 Can complete 1 events

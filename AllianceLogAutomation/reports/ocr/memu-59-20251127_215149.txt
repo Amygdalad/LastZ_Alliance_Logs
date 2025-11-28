@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 21:51:54
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_215149.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+App Res ver:1d3s.1678 SURVIVAL skooYER Loading 13% If the enemy is too strong, try launching a rally with allies!

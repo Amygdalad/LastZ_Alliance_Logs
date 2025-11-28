@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:02:11
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_130210123.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_130210617.png
+
+---- Alliance Logs OCR ----
+1m Construct 1 000 1 ooo Wood Rood
+

@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:39:04
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_133903286.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_133903733.png
+
+---- Alliance Logs OCR ----
+2676 Troop Size Level Bonus Star Bonus Hero Skill Structure Technologies 2890 @687.2M1440.0K Heroes -Upgrade- Skill 264 Star Up
+

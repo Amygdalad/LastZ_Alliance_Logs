@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-26 11:39:46
+Index: 138
+ADB: 127.0.0.1:22883
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-138-20251126_113946.png
+
+---- OCR ----
+10 Troop Size 1410 00:01:41 March 1699/150 2/3 1m

@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:32:00
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_133159664.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_133200390.png
+
+---- Alliance Logs OCR (retry) ----
+Farm ccct [OWNb1GIobe Farm CCCC 15 — IOWNblG'obeFarmccc2 [OWNblGIobe Farm cc lowNb1Globo IOWNblGlobe Farm CCCS Team up Od defeat 2- , VARANASI Bo o m omblete) Pig Farm Nissu: [LB21Bobby the farm War

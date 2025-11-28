@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-23 19:45:59
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.google.android.setupwizard
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-59-20251123_194557.png
+
+---- OCR ----
+Search Games and Apps Tools Garena Free Fire Play Garnes GTA5 Play Store SCHOOLBOW Settings Tekken 3 Last Z: SurvivaL Garena Free FL

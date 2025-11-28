@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 19:56:25
+Index: 57
+ADB: 127.0.0.1:22073
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-57-20251127_195513.png
+DismissedBrightSpot: X=78,Y=12,Sum=765
+
+---- OCR ----
+Details MR FUNK Power Structure Power Tech Power Troop power Hero Power Modified Vehicle Power Combat Statistics 31 62,931,640 3,554,625 Highest Power on Record Victory Defeat 141,158,121 15,914 915

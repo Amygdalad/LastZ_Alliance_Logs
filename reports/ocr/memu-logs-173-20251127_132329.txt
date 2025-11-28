@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:23:29
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_132329534.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_132329893.png
+
+---- Alliance Logs OCR (retry) ----
+Lvso Lv.90 Lvso Lv80 , LvS3 Go Recruit

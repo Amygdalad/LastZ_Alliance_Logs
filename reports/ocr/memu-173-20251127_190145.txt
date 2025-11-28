@@ -1,0 +1,16 @@
+﻿Timestamp: 2025-11-27 19:01:50
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_190145.png
+DismissedBrightSpot: X=518,Y=6,Sum=765
+
+---- OCR ----
+> Search Games and Apps Qa
+as
+as
+Tools + PlayGames â€”Play Store Settings LastZ
+e
+a 7
+GarenaFreeFire  GTAS Â© SCHOOLBOY.. Tekken3 Garena Free Fi..
+

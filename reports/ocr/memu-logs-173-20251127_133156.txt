@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:31:56
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_133155094.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_133155628.png
+
+---- Alliance Logs OCR ----
+Farm ccct — IOWNblG'obeFarmccc2 [OWNblGIobe Farm cc Lv.12 Lv.ll Sapphire [OWNb1GIobe Farm ccce 15 C) CCCS Team up and defeat 2- , VARANASI Boom Pig Farm Nissu: [LB21Bobby the farm 10h'Nb1Globo War
+

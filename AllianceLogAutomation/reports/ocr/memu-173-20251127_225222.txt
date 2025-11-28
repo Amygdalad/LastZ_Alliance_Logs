@@ -1,0 +1,20 @@
+﻿Timestamp: 2025-11-27 22:52:48
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_225222.png
+DismissedBrightSpot: X=232,Y=405,Sum=765
+
+---- OCR ----
+~ ve â€˜
+: Â» ft :
+\ ee ee j Bi
+3 . set) ee att ge oan Â« lee
+excite ~
+* i 2-7 NG
+t Py
+|
+Loading
+cd
+If the enemy is too strong, try launching a rally with allies!
+

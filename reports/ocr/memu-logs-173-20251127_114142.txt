@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 11:41:42
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_114140907.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_114141447.png
+
+---- Alliance Logs OCR ----
+Farm CCCI 15 [owNb1G10be Fan CCCE 15 = Farm CCC2 (OWNb]Globe Farm CCCS VARANASI eat Corn lete) Pig Farm Nissu: [LB21Bobby the farm [OWNblG10bo C 3 Söasor (OWN b 1 Globe Farm 15 Aliana Mail 6. Ware hoi
+

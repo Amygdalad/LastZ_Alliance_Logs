@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 20:04:00
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-57-20251127_200353652.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-57-20251127_200358562.png
+
+---- Alliance Logs OCR ----
+Loading 10% If the hospital Is full, extra seriously injured units will die.
+
+Loading 10% Ifthe hospital is full, extra seriously injured units will die. Please heal timelv.
+
+
+
+Loading 10%
+If the hospital Is full, extra seriously injured units will die.

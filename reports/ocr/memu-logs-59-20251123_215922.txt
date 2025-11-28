@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-23 21:59:22
+Index: 59
+ADB: (skipped)
+Screenshot: reporting/reports/screenshots/memu-logs-final-59-20251123_214541842.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-59-20251123_215922137.png
+
+---- Alliance Logs OCR ----
+• 09:21:31 • 09:19:38 • 09:19:30 • 09:18:33 Bobby Farm Bl was attacked by Bobby the farm (X:403 Y:521). Bobby Farm Bl was attacked by Bobby the farm (X.•403 y:521). Bobby Farm B6 was attacked by Bobby the farm (X:403 Y:518). Bobby Farm B6 was attacked by Bobby the farm (X:403 y:518). Bobby Farm B6 was attacked by Bobby the farm (X:403 Y:518). Bobby Farm B6 was attacked by Bobby the farm (X:403 y:518). Bobby Farm B6 was attacked by Bobby the farm (X:403 Y:518). Bobby Farm B2 was attacked by Bobby the farm (X:403 y:515). Bobby Farm B2 was attacked by Bobby the farm (X:403 Y:515). Bobby Farm B2 was attacked by Bobby the farm (X:403 y:515). Bobby Farm B2 was attacked by Bobby the farm (X:403 Y:515). Bobby Farm B2 was attacked by Bobby the farm (X:403 y:515). Bobby Farm B2 was attacked by Bobby the farm (X•.403 Y:515). Bobby Farm B2 was attacked by Bobby the farm (X:403 Y:515).

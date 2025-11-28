@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 22:44:01
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251126_224357.png
+DismissedBrightSpot: X=14,Y=68,Sum=765
+
+---- OCR ----
+3d Ranking 2 Unlisted Silver Arena suni1123 [Masa] 1489 1459 o Sh Rewards '1465 Survivor [Masa]suni1123 21.77M Viii [OuRlpoky 18.0M If' [GRS1]Attackify0ugay : 27.92M [VOW]Aparup Points - 1489 '9 1465 (9 1459 1 ooo Peak Arena Challenge Silver Arena

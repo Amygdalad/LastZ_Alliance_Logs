@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:10:22
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_131021674.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_131022386.png
+
+---- Alliance Logs OCR (retry) ----
+easor Alliaru Mail at , Og;creeps Co plate) Farm Nissu: [LB21Bobby the farm

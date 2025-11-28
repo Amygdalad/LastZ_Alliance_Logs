@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 23:00:00
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-58-20251127_225958011.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-58-20251127_230000198.png
+
+---- Alliance Logs OCR (retry) ----
+21: Se-asor Alliaru Mail Capture 1 Lv.l and above Sandsouls (0/1) AMARGO FARM: Help! My base is burn...

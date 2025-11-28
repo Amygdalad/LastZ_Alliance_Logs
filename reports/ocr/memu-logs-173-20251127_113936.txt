@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 11:39:36
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_113934432.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_113935066.png
+
+---- Alliance Logs OCR ----
+Loading 100% Upgrade the Bookstore to boost research speed.
+

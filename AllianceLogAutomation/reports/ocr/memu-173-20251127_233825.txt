@@ -1,0 +1,30 @@
+﻿Timestamp: 2025-11-27 23:39:33
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_233825.png
+DismissedBrightSpot: X=476,Y=902,Sum=765
+
+---- OCR ----
+@ 22,850,726 | & 150.0m OE rae 1940 +
+â€˜0 wa, @
+>â€, Vs"
+: 20:20:28,
+=u er = 2
+20 Mien die
+oo Seaseg?
+4 % om
+ae . Re
+ge
+Z A Si
+a oo Os, an
+tks gk
+= ws ee
+hea WZ
+aes
+) lie hcg
+ei oe
+A p= OE i o> via
+Si Pig Farm Nissu: [LB2]Bobby the farm [. fm
+HISTC! | Pla Farm Nise: The turkey escaped un~ Peck:
+

@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 23:24:44
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_232343.png
+DismissedBrightSpot: X=248,Y=849,Sum=765
+
+---- OCR ----
+(OCR failed: Exception calling "Wait" with "0" argument(s): "One or more errors occurred.")

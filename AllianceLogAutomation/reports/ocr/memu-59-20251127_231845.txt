@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 23:18:53
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_231845.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+SURVIVAL SHOOTER

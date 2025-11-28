@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 22:41:33
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251126_224130.png
+DismissedBrightSpot: X=252,Y=244,Sum=765
+
+---- OCR ----
+Yesterday's Duel Defeat WIN #173 [OWNb] OWNb Farms 2% Points Ranking +267.8%) +113.1%) 1 +105.0%) 5

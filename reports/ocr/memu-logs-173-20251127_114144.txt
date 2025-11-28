@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 11:41:44
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_114143648.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_114144189.png
+
+---- Alliance Logs OCR (retry) ----
+Farm CCCI 15 [owNb1G10be Fan CCCE 15 - = IOWNb]G10beFarmCCC2 (OWNb]Globe Farm CCCS VARANASI [OWNblG10bo Farm CCC3 (OWN b 1 Globe Farm 15 lDWNblGlob

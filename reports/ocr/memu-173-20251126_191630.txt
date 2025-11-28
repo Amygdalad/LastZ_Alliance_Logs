@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 19:16:34
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251126_191630.png
+DismissedBrightSpot: X=416,Y=178,Sum=765
+
+---- OCR ----
+(l) Danger Lurks Boomers are attacking survivors. Hurry and defeat them to reclaim the supplies. Federal Reward Refresh Clear all tasks to claim bonus reward. 11:59:52 Auto Teaming Up Tasks e Tyrant Furylord Danger Lurks Territory Triumph

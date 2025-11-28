@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 21:50:17
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-58-20251127_215016371.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-58-20251127_215017359.png
+
+---- Alliance Logs OCR (retry) ----
+Capturetl W.I arid above Sandso I (0 AMARGO FARM : Help! My base is bum••• Aliana Mail Wareho

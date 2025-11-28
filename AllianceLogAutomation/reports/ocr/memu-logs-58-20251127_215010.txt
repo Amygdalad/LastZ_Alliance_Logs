@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 21:50:10
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251127_215007880.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251127_215008510.png
+
+---- Alliance Logs OCR ----
+Preview . Season ends in: 40d Group iggø Rules Heroes Rewards Season Tasks Attackable Lv.l City-Lv.6 Go View
+
+Preview Season ends in: 220954 GroupigéÄ Rules Attackable Lv.l City-Lv.6 •Go-View-
+Preview
+Season ends in• 4eOd
+Group i'v Rules
+Heroes Rewards Attackable Lv.l City-Lv.6 -¯Go View Season Tasks
+

@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 23:15:08
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251127_231445789.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251127_231456601.png
+
+---- Alliance Logs OCR ----
+20. "Älliaru Mail and Capture•.1.L . above Sands6üls Ware ho AMARGO FARM: My base is burn...
+
+!åhd above Sandsoüls 0 AMARGO FARM: Mail Wareh0i Help! My base is burn••• AUAQGCi
+20:
+
+
+Capturel•Lv11 ahd above SandsOuls
+Wareho AMARGO FARM: "p! My base is burn...

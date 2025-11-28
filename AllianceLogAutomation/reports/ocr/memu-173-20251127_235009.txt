@@ -1,0 +1,25 @@
+﻿Timestamp: 2025-11-27 23:51:15
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_235009.png
+DismissedBrightSpot: X=248,Y=849,Sum=765
+
+---- OCR ----
+af lA Aare .
+(ew
+\ 2
+A
+2
+= a? _ a
+we Wrench x13
+l
+Â»> | 1h Speedup x5
+5m Speedup x60
+@ Â©) 4d 20:08:46
+100, |
+/ Â£5 +
+R "EY
+jo az 4 ,
+Force Expansion Sapphire
+

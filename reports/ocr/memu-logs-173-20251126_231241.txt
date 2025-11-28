@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 23:12:41
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251126_231235882.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251126_231239832.png
+
+---- Alliance Logs OCR ----
+Hot-Evei Alliant Duel Mail Beat 1,200 creeps ('Complete) Wareho Tim Farm AAAI: Empty Land 173...
+

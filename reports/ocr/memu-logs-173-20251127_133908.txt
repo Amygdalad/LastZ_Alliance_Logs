@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:39:08
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_133907654.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_133908103.png
+
+---- Alliance Logs OCR (retry) ----
+227,700 0 Lv.51 Unequip 2676 2890 e 264 @687.2M1440.0K -Upgrade- Heroes Skill Star Up

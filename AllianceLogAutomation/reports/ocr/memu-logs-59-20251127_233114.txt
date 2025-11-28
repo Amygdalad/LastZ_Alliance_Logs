@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 23:31:14
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-59-20251127_233112709.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-59-20251127_233113150.png
+
+---- Alliance Logs OCR ----
+20: Se-asor Lv.l Blush Bay Detaile. Upgrade Alliaru Mail Donate, "Alliance Tech timeS (C6mplete) Signal
+
+Lv.l Blush Bay Aliana Mail Donate,t07Alliance Tech SeasFarm007: Distress Signal
+20: Se'asor s.Lv.1 Blush Bay
+Detailå. Upgrade
+
+Alliaru Mail onate, "Alliance Tech time' C6mplete)
+

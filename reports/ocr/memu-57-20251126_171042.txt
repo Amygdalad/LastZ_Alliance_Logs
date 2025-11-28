@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-26 17:10:43
+Index: 57
+ADB: 127.0.0.1:22073
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-57-20251126_171042.png
+
+---- OCR ----
+

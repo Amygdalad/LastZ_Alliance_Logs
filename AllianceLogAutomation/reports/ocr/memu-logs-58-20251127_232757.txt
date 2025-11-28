@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 23:27:57
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251127_232756415.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251127_232756579.png
+
+---- Alliance Logs OCR ----
+09:36:59 09:35:37 09:34:24 09:32:29 09:30:32 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492) • AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y :492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y :492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492).
+
+09:36:59 09:35:37 09:34:24 09:32:29 09:30:32 AIVIANISU rANIVl was attacKea DY 'Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 'Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492).
+09:36:59 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492) • AMARGO FARM was attacked by AMARGO (X:680 Y:492).
+09:35:37 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492) • AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492).
+09:34:24 09:32:29 AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y: 492). AMARGO FARM was attacked by AMARGO (X:680 Y:492).
+09:30:32 AMARGO FARM was attacked by AMARGO (X:680 Y: 492). AMARGO FARM was attacked by AMARGO (X:680 Y:492). AMARGO FARM was attacked by AMARGO (X:680 Y:492).
+

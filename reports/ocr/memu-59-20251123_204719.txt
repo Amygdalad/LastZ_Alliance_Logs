@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-23 20:47:20
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-59-20251123_204719.png
+
+---- OCR ----
+OWN Farms .tv.5 Alliance Leader POP Language 530/900,000 Farm pichi •n English GEAR UP AND BUILD UP YOUR DEFENSES. THE ZOMBIE SURGE STARTS NOW Wars Alliance Techs Shop Rankings Alliance Skills Alliance Members Help Gifts Alliance Buildings Alliance Logs Manage

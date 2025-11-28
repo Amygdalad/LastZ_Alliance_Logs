@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 16:55:25
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-57-20251126_165523715.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-57-20251126_165524197.png
+
+---- Alliance Logs OCR ----
+Storage 331 Storage: 108 Storage: 11 +40;ooo Storage:26 64000 Storage: 169 9;600 Storage:29 150;ooo Storage:7 64'000 Storage:295 Storag 64} Random Teleport Relocate to a random position in the world upon use. Storage:31 Storage:a
+

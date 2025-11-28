@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 18:51:13
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_185110701.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_185113512.png
+
+---- Alliance Logs OCR (retry) ----
+0/2 3kf00:S c m up-and defeat 2 Boo Gs (Complete) Pig Farm Nissu: [LB21Bobby the farm

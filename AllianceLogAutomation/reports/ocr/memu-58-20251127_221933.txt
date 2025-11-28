@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:19:40
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-58-20251127_221933.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+31,752,529 318.6M 21uo:35 Center 2179K 21: 0':35 ng Hoe Carnival sea n ts Capture"l W.I arid above Sandsou (0 Her- 1) • Help! My base is bum••• AMARGO FARM. AMARGO FARM: AMARGO FARM's tre„. Alliance Mail Warehouse World

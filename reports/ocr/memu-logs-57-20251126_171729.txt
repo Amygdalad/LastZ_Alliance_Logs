@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 17:17:29
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-57-20251126_171727403.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-57-20251126_171728689.png
+
+---- Alliance Logs OCR ----
+2025-11-27 03:47:25 ROCKET Raccoon approved JR 1331 's application. JR 1331 is now a member Of the Alliance. 03:31:02 MR FUNK left the Alliance. 2025-11-27 03:08:44 MR FUNK was attacked by Sir Panther (X:501 Y:519). MR FUNK was attacked by Sir Panther (X:501 Y:519). 2025-11-27 MR FUNK was attacked by MRS FUNK (X:501 Y:519). MR FUNK was attacked by MRS FUNK (X:501 y:519). 2025-11-26 16:35:45 Bones11880 was attacked by ava angela (X:390 Y:50). 2025-11-26 11:22:53 wiz7236 was attacked by (X:90 Y:877). wiz7236 was attacked by (X:90 y:877).
+

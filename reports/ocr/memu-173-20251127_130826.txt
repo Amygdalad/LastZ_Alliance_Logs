@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:08:29
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_130826.png
+DismissedBrightSpot: X=45,Y=907,Sum=723
+
+---- OCR ----
+Alliance Leader Power POP Language OWNb Farms 8878/50000 G. No Alliance Announcenwnt Wars Alliance Techs Shop Rankings Alliance Skills Alliance Members Pig Fann 281,870,466 •n English Help Gifts ' Alliance Buildings Alliance Logs Manage

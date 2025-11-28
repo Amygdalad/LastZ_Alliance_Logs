@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:35:27
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_223525.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+ALL Lv.120 Lv.i20 Lv.120' Lv.120' Heroes Lv.12 Lv.120 Go Recruit Lv.120 Lv.l

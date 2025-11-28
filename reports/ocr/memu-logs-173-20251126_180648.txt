@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 18:06:48
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251126_180643834.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251126_180646964.png
+
+---- Alliance Logs OCR ----
+Tips Exit the game? •Confirm- Cancel
+

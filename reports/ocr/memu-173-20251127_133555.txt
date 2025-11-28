@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:36:00
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_133555.png
+DismissedBrightSpot: X=236,Y=202,Sum=765
+
+---- OCR ----
+Lv',20 Sophia CS70,210 0 Lv.90 9836 6963 687.2M /21.0M -Upgrade Heroes Skill Unequiö All 295 Star Up

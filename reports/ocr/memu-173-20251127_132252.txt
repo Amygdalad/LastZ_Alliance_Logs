@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:22:55
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_132252.png
+DismissedBrightSpot: X=78,Y=12,Sum=765
+
+---- OCR ----
+Details Pig Farm Nissu Power Structure Power Tech Power Troop power Hero Power Modified Vehicle Power Combat Statistics Highest Power on Record Victory Defeat 3,802,167 953,343 5,961,870 1,602,830 32,426,351 1,922 260

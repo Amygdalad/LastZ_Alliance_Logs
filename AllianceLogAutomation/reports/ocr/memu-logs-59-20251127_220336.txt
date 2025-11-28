@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 22:03:36
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251127_220335234.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251127_220336183.png
+
+---- Alliance Logs OCR (retry) ----
+[OWNflouR Farm EE3 •o ate•toAlliance TechS O ti eS (Complete) Farm: Sea Farm's treasure at {614,••• Sasor (OWNflOuR Farm IOWN00uR 2kh'28h Alliana Mail 2. Wareho

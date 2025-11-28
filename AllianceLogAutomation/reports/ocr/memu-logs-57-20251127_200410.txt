@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 20:04:10
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-57-20251127_200406758.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-57-20251127_200409952.png
+
+---- Alliance Logs OCR (retry) ----
+Loading 95% If the hospital Is full, extra seriously injured units will die.

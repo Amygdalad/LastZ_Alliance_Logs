@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:36:34
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_133633721.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_133634332.png
+
+---- Alliance Logs OCR (retry) ----
+LV',20 570,210 - O Lv.90 9836 6963 687.2M /21.0M Heroes -Upgrade- Skill Unequiö 295 Star Up

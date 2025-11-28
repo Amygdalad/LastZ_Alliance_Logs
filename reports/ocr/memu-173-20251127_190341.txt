@@ -1,0 +1,16 @@
+﻿Timestamp: 2025-11-27 19:03:50
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_190341.png
+DismissedBrightSpot: X=199,Y=56,Sum=765
+
+---- OCR ----
+ae +s > ws cy ie PTS yr is
+MW
+|
+Loading 14%
+>
+Long press the empty space to teleport your Base or start
+a troop march.
+

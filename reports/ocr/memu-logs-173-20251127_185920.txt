@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 18:59:20
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_185918765.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_185920191.png
+
+---- Alliance Logs OCR (retry) ----
+0/2 camu and defeat 2 Boomers (Completey Lv.l Mission cen 3d•00S45.4q Pispatch Farm theliarm

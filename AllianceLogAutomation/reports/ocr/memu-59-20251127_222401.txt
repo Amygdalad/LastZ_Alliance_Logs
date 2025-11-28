@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:24:08
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_222401.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+App Res ver:1d3s.1678 SURVIVAL skooYER Loading 12% Long pnss the empty space to teleport your Base or start a troop march.

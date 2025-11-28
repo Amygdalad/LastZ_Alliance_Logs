@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-27 19:51:03
+Index: 57
+ADB: 127.0.0.1:22073
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-57-20251127_195059083.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-57-20251127_195101845.png
+
+---- Alliance Logs OCR ----
+2 4,000 8 1,500 i*fi 12.000 Perform any of the following actions to obtain Points. !rform 1 Prime Recruits .nsume 2,000 EXP ly packs containing Diamonds [1 Diamonds] Today's Rival #172 [MIRI]ToraSonic + 400 + 30
+
+Today's Medal 4,000 18 i•fi 1 2.000 Perform any of the following actions to obtain Points. Tform 1 Prime Recruits msume 2,000 EXP IY packs containing Diamonds [I Diamonds] Today's Rival #172 [MIRI]ToraSonic + 400
+Toda Ws 18
+1 ,500 4,000 12,000
+Perform any of the following actions to obtain Points. !rform 1 Prime Recruits .nsume 2,000 EXP + 400
+ly packs containing Diamonds [1 Diamonds] + 30 Today's Rival #172 [MIRI]ToraSonic 1
+

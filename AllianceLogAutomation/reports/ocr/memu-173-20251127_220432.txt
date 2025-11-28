@@ -1,0 +1,52 @@
+﻿Timestamp: 2025-11-27 22:05:35
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_220432.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+2025-11-27
+
+* 23:05:21 Globe Farm CCC6 was attacked by GLOBE
+VARANASI (X:307 Y:456).
+
++ 23:04:49 Globe Farm CCC5 was attacked by GLOBE
+VARANASI (X:309 Y:457).
+
+* 23:04:46 Globe Farm CCC5 was attacked by GLOBE
+VARANASI (X:309 Y:457).
+
++ 23:04:25 Globe Farm CCC5 was attacked by GLOBE
+VARANASI (X:309 Y:457).
+
+* 23:04:22 Globe Farm CCC5 was attacked by GLOBE
+VARANASI (X:309 Y:457).
+
++ 23:04:16 Globe Farm CCC5 was attacked by GLOBE
+VARANASI (X:309 Y:457).
+
+* 23:03:47 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
++ 23:03:43 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
+23:03:39 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
+23:03:18 KO J Farm FFF3 was attacked by ssolove (X:688
+Y:537).
+
++ 23:03:08 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
+23:03:04 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
++ 23:03:01 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+
+23:02:56 Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).
+

@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 21:04:37
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-58-20251127_210330.png
+DismissedBrightSpot: X=252,Y=244,Sum=765
+
+---- OCR ----
+Federal President Sir Yesterday's Duel Victory WIN A Dedicated Farms Points Ranking +55.0%) +13.1%) 4 5 Cymru 13%

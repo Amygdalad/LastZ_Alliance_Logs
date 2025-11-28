@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 20:01:37
+Index: 57
+ADB: 127.0.0.1:22073
+Package: (none)
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-57-20251127_200125.png
+DismissedBrightSpot: X=153,Y=200,Sum=765
+
+---- OCR ----
+Google Sign In

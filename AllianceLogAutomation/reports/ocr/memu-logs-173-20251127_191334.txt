@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 19:13:34
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-173-20251127_191333283.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-173-20251127_191333963.png
+
+---- Alliance Logs OCR (retry) ----
+Loading 27% Upgrade the Hospital to prevent unit deaths when capacity

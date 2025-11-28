@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 22:37:38
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251126_223734.png
+DismissedBrightSpot: X=199,Y=56,Sum=765
+
+---- OCR ----
+App Resver:1d18.1657 SURVIVAL skooYER Loading 10% Sophia's 3rd skill reduces construction time cost.

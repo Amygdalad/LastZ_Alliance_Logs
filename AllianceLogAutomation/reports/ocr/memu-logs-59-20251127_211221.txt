@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 21:12:21
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251127_211220842.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251127_211221552.png
+
+---- Alliance Logs OCR (retry) ----
+(oww)Pig Fan Nl..u Farm 22:47:, Seasoi (OWNIRudraPr.s..d 1 37m IoWNrlGIobe 17 Allian IF.l.lZaneG.b1 nate.to Alliance Techs O times (Complete) D PoBoy•. Ty...a•

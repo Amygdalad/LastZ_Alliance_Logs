@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 22:26:44
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251127_222642909.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251127_222644567.png
+
+---- Alliance Logs OCR (retry) ----
+Go Recruit

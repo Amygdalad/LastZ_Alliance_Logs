@@ -1,0 +1,26 @@
+﻿Timestamp: 2025-11-27 21:00:50
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_205938.png
+DismissedBrightSpot: X=252,Y=244,Sum=765
+
+---- OCR ----
+Yesterday's Duel Defeat
+ae bal ed es
+O/H)
+\&
+#4173 [OWNb]| 70 [BHU]
+OWNb Farms = BHU
+Points Ranking
+we oe
+Â»Â¥6,025,934( = +267.8%)
+Â® xj EEE a
+a
+& cs g
+ee
+4 53 EE a
+a
+5 fa PEE g
+a7
+

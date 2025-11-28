@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-23 23:08:21
+Index: 32
+ADB: 127.0.0.1:21823
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-32-20251123_230821.png
+
+---- OCR ----
+(OCR failed: Exception calling "Wait" with "0" argument(s): "One or more errors occurred.")

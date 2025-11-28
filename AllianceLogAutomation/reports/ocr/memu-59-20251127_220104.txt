@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 22:01:06
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251127_220104.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Logs 2025-11-28 • 10:31:32 viky Singh farm was attacked by vikysingh (X:696 Y:526). 2025-11-28 • 09:59:33 • 09:58:48 • 09:56:35 OuR Farm EE5 was attacked by ChiNoOUR ()(:492 Y:395). ouR Farm EE5 was attacked by ChiNoOUR (X:492 Y:395). OuR Farm EE6 was attacked by ChiNOOUR Y:398). ouR Farm EE6 was attacked by ChiNoOUR (X:488 Y:398). OuR Farm EE6 was attacked by ChiNOOUR Y:398). ouR Farm EE6 was attacked by ChiNoOUR (X:488 Y:398). OuR Farm EE4 was attacked by ChiNOOUR Y:395). ouR Farm EE4 was attacked by ChiNoOUR (X:488 Y:395). OuR Farm EE4 was attacked by ChiNOOUR Y:395). ouR Farm EE4 was attacked by ChiNoOUR (X:488 Y:395). OuR Farm EE3 was attacked by ChiNoOUR y:392). ouR Farm EE3 was attacked by ChiNoOUR (X:487 Y:392).

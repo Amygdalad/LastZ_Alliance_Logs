@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 22:30:38
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-173-20251127_223035963.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-173-20251127_223038391.png
+
+---- Alliance Logs OCR (retry) ----
+LeunvUCD sea [OWNb1Alliance center 1 Capture 1 Lv.5 and above 'andsouls (0/1) war AguSch: vi que vendias cuentas! esper•••

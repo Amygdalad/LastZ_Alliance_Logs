@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 22:44:26
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251126_224424315.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251126_224425394.png
+
+---- Alliance Logs OCR ----
+'ossession Attributes leroATK +300 coastal Chill Gift Silver Surf Electro Diva Laura's Xmas Outfit Headquarters Avatar
+

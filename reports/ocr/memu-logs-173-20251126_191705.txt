@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-26 19:17:05
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251126_191658378.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251126_191704878.png
+
+---- Alliance Logs OCR ----
+05:57: 12 05:56:46 05:55:09 as attaCKea DY Allan V Y :543)• KO J Farm FFF5 was attacked by Aliah V (X:687 Y:543). KO J Farm FFF5 was attacked by Aliah V (X:687 Y: 543)• KO J Farm FFF5 was attacked by Aliah V (X:687 Y:543). KO J Farm FFF5 was attacked by Aliah V (X:687 Y :543). KO J Farm FFF5 was attacked by Aliah V (X:687 Y:543). KO J Farm FFF5 was attacked by Aliah V (X:687 Y: 543). KO J Farm FFF6 was attacked by Aliah V (X:689 Y:540). KO J Farm FFF6 was attacked by Aliah V (X:689 y:540). KO J Farm FFF6 was attacked by Aliah V (X:689 Y:540). KO J Farm FFF6 was attacked by Aliah V (X:689 Y:540). KO J Farm FFF3 was attacked by Aliah V (X:688 Y:537). KO J Farm FFF3 was attacked by Aliah V (X:688 y:537).
+

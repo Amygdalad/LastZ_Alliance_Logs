@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 13:22:12
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-173-20251127_132211384.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-retry-crop-173-20251127_132212195.png
+
+---- Alliance Logs OCR (retry) ----
+easor Alliaru Mail o te iAlliance Techs O tim S(Complete) Farm Nissu: [LB21Bobby the farm

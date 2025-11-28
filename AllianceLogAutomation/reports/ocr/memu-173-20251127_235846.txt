@@ -1,0 +1,25 @@
+﻿Timestamp: 2025-11-27 23:59:53
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_235846.png
+DismissedBrightSpot: X=299,Y=758,Sum=765
+
+---- OCR ----
+- BRL ,
+a x
+a ey
+aN a. a
+ye SS Has mee
+al wu =
+ae =: jae
+by â€œ4 Km 4
+' Privilege Valid for 30 Days
+4. Got an extra marching queue!
+2: Get Wanderer Avatar Frame & Chat
+Buri fbops gain a 20% boost for both ATK
+AGAR rade License to send 3 Wandering
+Traders to ally shelters daily for
+Daily Gift
+c> : â€œ4
+

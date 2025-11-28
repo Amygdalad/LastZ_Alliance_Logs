@@ -1,0 +1,16 @@
+﻿Timestamp: 2025-11-27 14:56:50
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-final-173-20251127_145647041.png
+OCRSource: Z:\git\AI_Creations\reporting\reports\screenshots\memu-logs-crop-173-20251127_145648757.png
+
+---- Alliance Logs OCR ----
+EloDe Farm 5 was attac • 23:04:46 • 23:03:47 • 23:03:39 • 23:03:08 • 23:03:01 VARANASI (X:309 y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 y:457). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). KO J Farm FFF3 was attacked by ssolove y:537). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455).
+
+• 23:04:46 • 23:04:22 • 23:03:47 • 23:03:39 • 23:03:08 • 23:03:01 elODe Farm was attacKea DY VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). KO J Farm FFF3 was attacked by ssolove (X:688 Y:537). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455).
+EloDe Farm 5 was attac • 23:04:46 VARANASI (X:309 y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 y:457).
+• 23:03:47 Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 Y:457). Globe Farm CCC5 was attacked by GLOBE VARANASI (X:309 y:457). Globe Farm CCC4 was attacked by GLOBE
+• 23:03:47 • 23:03:39 Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455).
+• 23:03:08 VARANASI (X:312 Y:455). KO J Farm FFF3 was attacked by ssolove y:537). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455).
+• 23:03:01 Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 y:455). Globe Farm CCC4 was attacked by GLOBE VARANASI (X:312 Y:455). Globe Farm CCC4 was attacked by GLOBE
+VARANASI (X:312 Y:455).

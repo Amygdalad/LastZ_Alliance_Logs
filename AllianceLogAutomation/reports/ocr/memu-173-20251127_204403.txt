@@ -1,0 +1,14 @@
+﻿Timestamp: 2025-11-27 20:44:18
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_204403.png
+DismissedBrightSpot: X=199,Y=56,Sum=765
+
+---- OCR ----
+a 7,
+eas a
+<a fe
+
+\ =a"
+

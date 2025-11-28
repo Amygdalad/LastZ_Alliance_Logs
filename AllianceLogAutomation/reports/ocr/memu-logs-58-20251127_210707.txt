@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-27 21:07:07
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-58-20251127_210705965.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-58-20251127_210707439.png
+
+---- Alliance Logs OCR (retry) ----
+v' V.I arid aboveSandso I (0 AMARGO FARM : Help! My base is bum••• Aliana Mail Wareho

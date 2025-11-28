@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-27 13:57:46
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\reports\screenshots\memu-173-20251127_135741.png
+DismissedBrightSpot: X=145,Y=80,Sum=765
+
+---- OCR ----
+Audrey This Hero excels in Strong DEF in combats. 227,700 0 Lv.51 2676 2890 @687.2M1440.0K -Upgrade Heroes Skill Unequip All e 264 Star Up

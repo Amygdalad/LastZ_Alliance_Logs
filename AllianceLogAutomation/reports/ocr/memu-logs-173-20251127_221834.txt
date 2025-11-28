@@ -1,0 +1,68 @@
+﻿Timestamp: 2025-11-27 22:18:34
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-173-20251127_221829105.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-173-20251127_221830703.png
+
+---- Alliance Logs OCR ----
+11-16 23:50
+WYP LV.22" [LB2f]Agusch
+lI Hola! como estas?
+VY LV.22 EF [LB2f]Agusch
+| J vi que vendias cuentas!
+espero no sea molestia, pero
+me podias ensefiar como lo
+haces? i>
+11-16 23:52
+WY LV.22G" [LB2f]Agusch
+[I el juego es divertido y
+disfruto de jugarlo, pero
+dentro de poco tendrÃ© deudas
+y me ayudaria a pagarlas si la
+vendo re]
+SMa rap to enter text wy
+
+
+11-16 23:50
+W 4 .LV.22 G [LB2f]AguSch
+pa Hola! como estas?
+WY 4 LV.22 GF [LB2f|AguSch
+Fa vi que vendias cuentas!
+espero no sea molestia, pero
+me podias ensenar como lo
+haces? ES)
+11-16 23:52
+VY 4 LV.22G [LB2f]AguSch
+Ba el juego es divertido y
+disfruto de jugarlo, pero
+dentro de poco tendrÃ© deudas
+y me ayudaria a pagarlas si la
+vendo ES)
+Â¢e [Tap to enter text ah
+
+11-16 23:50
+WYP LV.22" [LB2f]Agusch
+lI Hola! cÃ©mo estas? r=.)
+VY LV.22 EF [LB2f]Agusch
+lo i
+
+| 2 | NR NO SE
+vi que vendias cuentas!
+espero no sea molestia, pero
+me podias ensefar como lo
+haces? rs]
+44-46 23Â°52
+
+11-16 23:52
+WY LV.22G" [LB2f]Agusch
+[I el juego es divertido y
+disfruto de jugarlo, pero
+dentro de poco tendrÃ© deudas
+vy me awvidaria a naaqarlac ci la
+
+ee
+y me ayudaria a pagarlas si la
+vendo | =, |
+
+
+

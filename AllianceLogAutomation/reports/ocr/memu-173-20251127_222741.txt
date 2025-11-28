@@ -1,0 +1,22 @@
+﻿Timestamp: 2025-11-27 22:28:48
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251127_222741.png
+DismissedBrightSpot: X=436,Y=826,Sum=765
+
+---- OCR ----
+Items ere Equipment) [Resources Speedup)
+I __â€”_] |] ee)
+Daas
+| eel) ae) Gere:
+| __uvs [ =
+sal tke,
+| - | 30> ,
+ess
+eelel
+(ayy RD GS
+â€”â€”)
+Modification Blueprint
+rr:
+
