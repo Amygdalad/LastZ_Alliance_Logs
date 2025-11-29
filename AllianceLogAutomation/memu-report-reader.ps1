@@ -140,6 +140,10 @@ param(
     [switch]$DisableOcr
 )
 
+. "$PSScriptRoot\common-utils.ps1"
+. "$PSScriptRoot\find-close-button.ps1"
+. "$PSScriptRoot\check-alliance.ps1"
+
 Set-StrictMode -Version Latest
 $ErrorActionPreference = 'Stop'
 
@@ -884,15 +888,48 @@ function Get-OcrResult {
 
     $engine = [Windows.Media.Ocr.OcrEngine]::TryCreateFromUserProfileLanguages()
     if (-not $engine) {
+        $stream.Dispose()
         throw "Windows OCR engine not available on this machine."
     }
-    return Get-AsyncResult -AsyncOperation ($engine.RecognizeAsync($bitmap)) -ResultType ([Windows.Media.Ocr.OcrResult])
+    try {
+        return Get-AsyncResult -AsyncOperation ($engine.RecognizeAsync($bitmap)) -ResultType ([Windows.Media.Ocr.OcrResult])
+    }
+    finally {
+        if ($stream) { $stream.Dispose() }
+        # Force GC to release file handles held by WinRT/COM objects
+        [System.GC]::Collect()
+        [System.GC]::WaitForPendingFinalizers()
+    }
 }
 
 function Invoke-Ocr {
     param([string]$ImagePath)
     $result = Get-OcrResult -ImagePath $ImagePath
     return $result.Text
+}
+
+function Crop-Image {
+    param(
+        [string]$ImagePath,
+        [string]$OutputPath,
+        [int]$X,
+        [int]$Y,
+        [int]$Width,
+        [int]$Height
+    )
+    Add-Type -AssemblyName System.Drawing
+    $bmp = [System.Drawing.Bitmap]::FromFile($ImagePath)
+    
+    # Ensure crop is within bounds
+    if ($X + $Width -gt $bmp.Width) { $Width = $bmp.Width - $X }
+    if ($Y + $Height -gt $bmp.Height) { $Height = $bmp.Height - $Y }
+
+    $rect = New-Object System.Drawing.Rectangle $X, $Y, $Width, $Height
+    $cropped = $bmp.Clone($rect, $bmp.PixelFormat)
+    $bmp.Dispose() # Dispose source immediately
+    
+    $cropped.Save($OutputPath)
+    $cropped.Dispose()
 }
 
 function Find-OcrPhraseCenter {
@@ -1087,6 +1124,54 @@ function Enhance-ImageForOcr {
     return $OutputPath
 }
 
+function Threshold-Image {
+    param(
+        [string]$InputPath,
+        [string]$OutputPath,
+        [float]$Threshold = 0.5
+    )
+
+    Add-Type -AssemblyName System.Drawing
+    $bmp = [System.Drawing.Bitmap]::FromFile($InputPath)
+    try {
+        # Lock bits for faster processing
+        $rect = New-Object System.Drawing.Rectangle 0, 0, $bmp.Width, $bmp.Height
+        $bmpData = $bmp.LockBits($rect, [System.Drawing.Imaging.ImageLockMode]::ReadWrite, $bmp.PixelFormat)
+        $ptr = $bmpData.Scan0
+        $bytes = [Math]::Abs($bmpData.Stride) * $bmp.Height
+        $rgbValues = New-Object byte[] $bytes
+        [System.Runtime.InteropServices.Marshal]::Copy($ptr, $rgbValues, 0, $bytes)
+
+        $pixelSize = 4 # Assuming 32bpp
+        if ($bmp.PixelFormat -eq [System.Drawing.Imaging.PixelFormat]::Format24bppRgb) { $pixelSize = 3 }
+
+        for ($i = 0; $i -lt $rgbValues.Length; $i += $pixelSize) {
+            $b = $rgbValues[$i]
+            $g = $rgbValues[$i+1]
+            $r = $rgbValues[$i+2]
+            
+            # Simple grayscale
+            $gray = ($r * 0.3 + $g * 0.59 + $b * 0.11)
+            
+            # Threshold
+            $val = if ($gray -lt ($Threshold * 255)) { 0 } else { 255 }
+            
+            $rgbValues[$i] = $val
+            $rgbValues[$i+1] = $val
+            $rgbValues[$i+2] = $val
+        }
+
+        [System.Runtime.InteropServices.Marshal]::Copy($rgbValues, 0, $ptr, $bytes)
+        $bmp.UnlockBits($bmpData)
+        
+        $bmp.Save($OutputPath, [System.Drawing.Imaging.ImageFormat]::Png)
+    }
+    finally {
+        $bmp.Dispose()
+    }
+    return $OutputPath
+}
+
 function Invoke-TesseractOcr {
     param(
         [string]$ImagePath,
@@ -1130,6 +1215,46 @@ function Invoke-AnyOcr {
         }
     }
     return Invoke-Ocr -ImagePath $ImagePath
+}
+
+function Test-AllianceVisible {
+    param(
+        [string]$ScreenshotPath,
+        [switch]$PreferTesseract
+    )
+
+    $found = $false
+    $allowOcr = $UseOcrForAllianceButton -or $PreferTesseract
+
+    $shouldTryTesseract = ($PreferTesseract -or $UseTesseract) -and $allowOcr -and $TesseractPath -and (Test-Path -LiteralPath $TesseractPath)
+    if ($shouldTryTesseract) {
+        try {
+            $alliText = Invoke-TesseractOcr -ImagePath $ScreenshotPath -TesseractExe $TesseractPath
+            if ($alliText -match '(?i)alliance') {
+                $found = $true
+            }
+        }
+        catch {
+            Write-Verbose ("Tesseract alliance check failed: {0}" -f $_.Exception.Message)
+        }
+    }
+
+    if (-not $found -and $allowOcr) {
+        $ocrAlli = Find-OcrPhraseCenter -ImagePath $ScreenshotPath -Phrase "Alliance"
+        if ($ocrAlli.Found) { $found = $true }
+    }
+
+    if (-not $found -and $AllianceButtonTemplatePath -and (Test-Path -LiteralPath $AllianceButtonTemplatePath)) {
+        try {
+            $tplMatch = Find-TemplateMatch -ImagePath $ScreenshotPath -TemplatePath $AllianceButtonTemplatePath -RegionFraction $SearchRegionFraction -Tolerance $ColorTolerance -Threshold $MatchThreshold -SampleStep $TemplateSampleStep
+            if ($tplMatch.Found) { $found = $true }
+        }
+        catch {
+            Write-Verbose ("Template alliance check failed: {0}" -f $_.Exception.Message)
+        }
+    }
+
+    return $found
 }
 
 function Parse-AttackLogs {
@@ -1594,22 +1719,7 @@ foreach ($index in $Indexes) {
                 Capture-Screenshot -Serial $serial -Path $screenshotPath | Out-Null
                 
                 # --- Check for Alliance Icon/Text to break loop ---
-                $allianceFound = $false
-                
-                # 1. OCR Check
-                if ($UseOcrForAllianceButton) {
-                    $ocrAlli = Find-OcrPhraseCenter -ImagePath $screenshotPath -Phrase "Alliance"
-                    if ($ocrAlli.Found) { $allianceFound = $true }
-                }
-                
-                # 2. Template Check (if valid)
-                if (-not $allianceFound -and $AllianceButtonTemplatePath -and (Test-Path -LiteralPath $AllianceButtonTemplatePath)) {
-                    try {
-                        $tplMatch = Find-TemplateMatch -ImagePath $screenshotPath -TemplatePath $AllianceButtonTemplatePath -RegionFraction $SearchRegionFraction -Tolerance $ColorTolerance -Threshold $MatchThreshold -SampleStep $TemplateSampleStep
-                        if ($tplMatch.Found) { $allianceFound = $true }
-                    } catch {}
-                }
-                
+                $allianceFound = Test-AllianceVisible -ScreenshotPath $screenshotPath -AllianceButtonTemplatePath $AllianceButtonTemplatePath -SearchRegionFraction $SearchRegionFraction -ColorTolerance $ColorTolerance -MatchThreshold $MatchThreshold -TemplateSampleStep $TemplateSampleStep
                 if ($allianceFound) {
                     Write-Host "Alliance icon/text detected. Stopping ad dismissal." -ForegroundColor Green
                     break
@@ -1618,10 +1728,7 @@ foreach ($index in $Indexes) {
 
                 $dismissed = $false
                 # Try OCR for "X", "Close", "Skip"
-                $ocrX = Find-OcrPhraseCenter -ImagePath $screenshotPath -Phrase "X"
-                if (-not $ocrX.Found) { $ocrX = Find-OcrPhraseCenter -ImagePath $screenshotPath -Phrase "x" }
-                if (-not $ocrX.Found) { $ocrX = Find-OcrPhraseCenter -ImagePath $screenshotPath -Phrase "Close" }
-                if (-not $ocrX.Found) { $ocrX = Find-OcrPhraseCenter -ImagePath $screenshotPath -Phrase "Skip" }
+                $ocrX = Find-CloseButton -ScreenshotPath $screenshotPath -TesseractPath $TesseractPath -UseTesseract $UseTesseract
 
                 if ($ocrX.Found) {
                     Write-Host ("OCR found close button at {0},{1}; tapping to dismiss." -f $ocrX.X, $ocrX.Y) -ForegroundColor DarkYellow
@@ -1629,16 +1736,39 @@ foreach ($index in $Indexes) {
                     Invoke-AdbTap -Serial $serial -X $ocrX.X -Y $ocrX.Y
                     $dismissCount++
                     $dismissed = $true
-                    Start-Sleep -Seconds 3
+                    Start-Sleep -Seconds 5
+
+                    # --- Check for Alliance Icon/Text after tap (prefer Tesseract) ---
+                    # This prevents looping back to look for close buttons if we are already done.
+                    try {
+                        Write-Host "Checking for Alliance screen after close..." -ForegroundColor DarkGray
+                        
+                        # Force GC to ensure previous file handles are released
+                        [System.GC]::Collect()
+                        [System.GC]::WaitForPendingFinalizers()
+
+                        # Use a temp path to avoid file locking issues with $screenshotPath
+                        $checkPath = [System.IO.Path]::ChangeExtension($screenshotPath, ".check.png")
+                        Capture-Screenshot -Serial $serial -Path $checkPath | Out-Null
+                        
+                        $allianceFoundAfterTap = Test-AllianceVisible -ScreenshotPath $checkPath -PreferTesseract -TesseractPath $TesseractPath -AllianceButtonTemplatePath $AllianceButtonTemplatePath -SearchRegionFraction $SearchRegionFraction -ColorTolerance $ColorTolerance -MatchThreshold $MatchThreshold -TemplateSampleStep $TemplateSampleStep
+                        
+                        if (Test-Path -LiteralPath $checkPath) { Remove-Item -LiteralPath $checkPath -Force -ErrorAction SilentlyContinue }
+
+                        if ($allianceFoundAfterTap) {
+                            Write-Host "Alliance icon/text detected after tap. Stopping ad dismissal." -ForegroundColor Green
+                            break
+                        } else {
+                            Write-Host "Alliance screen not detected yet." -ForegroundColor DarkGray
+                        }
+                    } catch {
+                        Write-Warning "Error checking for Alliance button after tap: $_"
+                    }
+                    # ----------------------------------------------------------
                 }
                 else {
-                    Write-Verbose "No close button (X/Close/Skip) found via OCR."
-                    if ($dismissCount -gt 0) {
-                        Write-Host "No more ads detected (and previous ones dismissed). Proceeding." -ForegroundColor Green
-                        break
-                    }
-                    # If we haven't dismissed anything yet, we just wait a bit and try again, 
-                    # or eventually timeout if the Alliance button never appears.
+                    Write-Verbose "No close button (X/Close/Skip) found via OCR; retrying until Alliance is visible or timeout."
+                    # Wait briefly and try again, or eventually timeout if the Alliance button never appears.
                     Start-Sleep -Seconds 2
                 }
             }

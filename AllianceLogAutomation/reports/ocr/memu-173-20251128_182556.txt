@@ -1,0 +1,27 @@
+﻿Timestamp: 2025-11-28 18:26:57
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-173-20251128_182556.png
+DismissedBrightSpot: OCR_X=459,Y=144
+
+---- OCR ----
+! Cook & Gift ff 105 +
+Â© 2d 01:33:04
+Gather ingredients, cookgturkeysyand[shatejthis) 8
+iT Â¢ ndsty @
+| Ve
+. â€œa â€”
+4
+y Sena turkey XO
+hs â€”
+| B
+| Ã©
+â€ z * i Cook eS
+Es te el ae
+SSS", =
+Gift turkeys to earn tokens for rewards.
+re CJ
+of x F @Â°
+ae) Thanksgiving Star itision Thankegiving Th
+

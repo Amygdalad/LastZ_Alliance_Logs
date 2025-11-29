@@ -1,0 +1,28 @@
+﻿Timestamp: 2025-11-28 18:18:05
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-173-20251128_181701.png
+DismissedBrightSpot: OCR_X=459,Y=144
+
+---- OCR ----
+!) Cook & Gift ff 105 +
+Â© 20 01:41:56
+mn a4 ndsy 3
+: a
+- )
+4
+emp d
+oz
+a
+| 4
+y : * Cook â€”
+=f 2 at Ta J
+os a =f > â€”â€”
+oo
+Gift turkeys to earn tokens for rewards.
+4-e-aBe
+re A
+of x F @Â°
+ae) Thanksgiving Star itision Thankegiving Th
+

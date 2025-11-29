@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 18:19:46
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-58-20251128_181945.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+L e .dary hero Ka rina' héFé!Cdhe witnes the powei tb crush everything!

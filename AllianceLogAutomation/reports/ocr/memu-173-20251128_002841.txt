@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 00:29:48
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251128_002841.png
+DismissedBrightSpot: OCR_X=500,Y=72
+
+---- OCR ----
+@ 15,503,846 { O 112.0 @ Sm+
+( Ww Le d w :
+SO wet Ss
+N2>, Z 2
+
+es A â‚¬ LS
+

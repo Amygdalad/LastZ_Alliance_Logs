@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 00:21:48
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-58-20251128_002147.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+45200/0 Dail Must-Buy GO Huge discounts! Unbeatable prices! Take your pick! Purchase Limit: 1 per day 10 so.99 Treasure of the Day Force Expansion

@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 00:23:15
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251128_002314.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Hero Code 2025/11/102025/1219 u scribe an time during t eva dityto Select Hero Code

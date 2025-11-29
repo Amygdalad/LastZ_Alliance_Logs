@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 18:54:33
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251128_185432384.png
+OCRSource: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251128_185432892.png
+
+---- Alliance Logs OCR (retry) ----
+e.6K asor above SandSouls (phl ) PoBoy: unearth Treasu Alliaru Mail reho 173

@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 00:17:57
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-59-20251128_001756570.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-59-20251128_001756802.png
+
+---- Alliance Logs OCR ----
+VIP-Exclusiuäs Legendary hero Katrina's here! Come witness the power to crush everything! 100 Rs 2800.00
+
+Legendary hero Katrina's here! Come witness the power to crush everything! 660 100 R'2V800.OO
+
+VIP-Exclusives
+Legendary hero Katrina's here! Come witness the power to crush everything!
+100 W2;800.OO
+

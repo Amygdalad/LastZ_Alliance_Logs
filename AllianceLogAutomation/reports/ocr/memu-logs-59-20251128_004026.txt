@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 00:40:26
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251128_004026200.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251128_004026807.png
+
+---- Alliance Logs OCR (retry) ----
+Lv.120 Lv.i20 Lv.120 Lv.120' Lv.12 Lv.120 Go Recruit Lv.120 Lv.12c-

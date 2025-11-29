@@ -1,0 +1,124 @@
+﻿Timestamp: 2025-11-28 00:09:31
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-173-20251128_000928469.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-173-20251128_000928658.png
+
+---- Alliance Logs OCR ----
+* 13:29:04 AU Farm Frees Was attacked Dy Allan V \A.004
+Y:543).
+
+13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543),
+
+13:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+13:28:11 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+* 13:28:09 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+43:27:43 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+Â¢ 13:27:40 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+* 13:27:20 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+13:27:18 KO J Farm FFF5 was attacked by Aliah V (X:687
+
+* 13:26:43 KO J Farm FFF6 was attacked by Aliah V (X:689
+Y:540).
+
+13:26:41 KO J Farm FFF6 was attacked by Aliah V (X:689
+
+
+132904 AY Parm PPro Was allacKked DY Allan V \A.004
+Y:543).
+
+* 13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+Â¥:543).
+
+* 13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Â¥:543).
+
+* 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:28:11 KO J Farm FFF5 was attacked by Aliah V (X:687
+Â¥:543).
+
+* 43:28:09 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+* 43:27:43 KO J Farm FFF5 was attacked by Aliah V (X:687
+Â¥:543).
+
+* 43:27:40 KO J Farm FFF5 was attacked by Aliah V (X:687
+Â¥:543).
+
+* 43:27:20 KO J Farm FFF5 was attacked by Aliah V (X:687
+Â¥:543).
+
+* 43:27:18 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+* 43:26:43 KO J Farm FFF6 was attacked by Aliah V (X:689
+Y:540).
+
+* 43:26:41 KO J Farm FFF6 was attacked by Aliah V (X:689
+Y:540).
+
+19:29:04 RY Palm Free Was atacned Dy Allan V (A088
+Y:543).
+13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+
+13:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
++ 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+Â© 43:28:11 KO J Farm FFF5 was attacked by Aliah V (X:687
+
+* 13:28:11 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
++ 13:28:09 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+13:27:43 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543),
+
+Y:543). 7
+
+Â© 13:27:40 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+* 13:27:20 KO J Farm FFF5 was attacked by Aliah V (X:687
+Y:543).
+
+13:27:18 KO J Farm FFFS5 was attacked by Aliah V (X:687
+
+* 13:26:43 KO J Farm FFF6 was attacked by Aliah V (X:689
+Y:540).
+
+13:26:41 KO J Farm FFF6 was attacked by Aliah V (X:689
+VeRAN)
+
+240/41 NUS Fa Wads dlaCnhed DY Alldll V \A.009
+

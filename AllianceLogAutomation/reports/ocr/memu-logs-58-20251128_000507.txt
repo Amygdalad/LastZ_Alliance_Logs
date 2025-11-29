@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 00:05:07
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_000505846.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251128_000506313.png
+
+---- Alliance Logs OCR ----
+Helping Handsv Construction worker enables you to construct more buildings simultaneously. 20 Sl.99
+
+GOe0p0ng Construction worker enables you to construct more buildings simultaneously. 20
+
+G &0e0pbng Hands Construction worker enables you to
+construct more buildings simultaneously
+Sl.99
+

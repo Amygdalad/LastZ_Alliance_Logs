@@ -1,0 +1,28 @@
+﻿Timestamp: 2025-11-28 18:50:58
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-173-20251128_184949.png
+DismissedBrightSpot: OCR_X=459,Y=144
+
+---- OCR ----
+!) Cook & Gift J 105 +
+Â© 2d 01:09:02
+Gather ingredients, cookqtuikeysyand|sharelthis) re)
+mm thifriendss reef
+' =/
+â€™ J â€˜ if
+4 *
+= \~ C4 oN &
+m 7
+==
+6 r
+% " Cook
+z > 2 ee
+â€”S - ae
+Gift turkeys to earn tokens for rewards. |
+-e- ke
+re *
+e wiÂ» FF @ id
+ee) Thanksgiving Star itision Thankegiving Th
+

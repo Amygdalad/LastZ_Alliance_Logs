@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 18:59:35
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_185934227.png
+OCRSource: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251128_185934480.png
+
+---- Alliance Logs OCR ----
+45200/0 Must-Buy GO Huge discounts! Unbeatable prices! Take your pick! i. Purchase Limit: 1 per day 10 so.99 Treasure of the Day
+
+45200/0 Daily Must-Buy GO Huge discounts! Unbeatable prices! Take your pick! Purchase Limit: 1 per day 10 so.9$ Treasure Of the Day Hero Perks
+45200/0 Must-Buy
+GO Dco Huge discounts! Unbeatable prices! Take
+your pick! Purchase Limit: 1 per day
+10 so.99 Treasure of the Day
+

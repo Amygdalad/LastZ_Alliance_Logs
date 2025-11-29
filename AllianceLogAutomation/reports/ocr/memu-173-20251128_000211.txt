@@ -1,0 +1,25 @@
+﻿Timestamp: 2025-11-28 00:03:13
+Index: 173
+ADB: 127.0.0.1:23233
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-173-20251128_000211.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Al x
+. ~~
+â€˜@\ (4520%
+>) 0
+. - Daily Must-Buy
+" f
+=
+ra J â€˜
+_~ â€˜
+Huge discounts! Unbeatable prices! Take
+your pick!
+= eal The
+Purchase Limit: 1 per day
+Â©) 19:57:48
+40
+| Force Expansion â€”
+

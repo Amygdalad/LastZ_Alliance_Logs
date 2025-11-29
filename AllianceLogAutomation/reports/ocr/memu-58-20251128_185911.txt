@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 18:59:11
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-58-20251128_185911.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+'45200/0 Dail Must-B GO Huge discounts! Unbeatable prices! Take your pick! Purchase Limit: 1 per day 10 so.99 Treasure of the Day Hero perks

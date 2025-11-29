@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 18:51:38
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-retry-173-20251128_185138281.png
+OCRSource: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-173-20251128_185138839.png
+
+---- Alliance Logs OCR (retry) ----
+0/2 Capture 1 Lv.5 and above Sandsouls (0/1) Farm Nissu: [LB21Bobby the farm

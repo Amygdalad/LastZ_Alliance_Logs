@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 00:22:11
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_002210264.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251128_002210503.png
+
+---- Alliance Logs OCR ----
+145200/0 Raily Must-Buy GO Huge discounts! Unbeatable prices! Take your pick! i. Purchase Limit: 1 per day 0 19:37:49 10 so.99 Treasure of the Day Force Expansion
+
+45200/0 Daily Must-Buy GO Huge discounts! Unbeatable prices! Take your pick! Purchase Limit: 1 per day 10 so.9$ Treasure Of the Day Force Expansion
+'45200/0 paily Must-B
+GO Dco Huge discounts! Unbeatable prices! Take
+your pick! Purchase Limit: 1 per day 0 19:37:49
+10 so.99 Treasure of the Day Expnslon
+

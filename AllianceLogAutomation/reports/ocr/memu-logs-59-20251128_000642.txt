@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 00:06:42
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251128_000642278.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251128_000642477.png
+
+---- Alliance Logs OCR (retry) ----
+Bus Simulator Indonesia INSTALL BUS SIMULATOR GTA5 SCHOOLBOW Tekken 3 Garena Free FL Bus Simulatcw

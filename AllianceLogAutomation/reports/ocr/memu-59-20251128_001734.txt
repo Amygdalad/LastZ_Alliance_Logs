@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 00:17:34
+Index: 59
+ADB: 127.0.0.1:22093
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-59-20251128_001734.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+VIP-Exclusiues Legendary hero Katrina's here! Come witness the power to crush everything! Rs2v800.OO

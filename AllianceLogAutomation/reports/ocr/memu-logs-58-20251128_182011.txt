@@ -1,0 +1,15 @@
+﻿Timestamp: 2025-11-28 18:20:11
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_182009747.png
+OCRSource: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-crop-58-20251128_182010317.png
+
+---- Alliance Logs OCR ----
+Aliana Lv.l Black Market omplete radareyents Co plete) F: Hari treasure at {608,530} Det Mail Shop Wareho
+
+Aliana Lv.l Black Market Shop , Wareho complete 5 radar events (Complete) Hari F: Hari F'S treasure at {608,530} Mu iq hilt-ninet
+
+
+
+9. omplete radareyents Co plete) Det Aliana Black Market Mail Shop Ware h O
+Wareho F: Hari treasure at {608,530}

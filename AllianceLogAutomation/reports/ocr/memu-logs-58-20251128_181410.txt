@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 18:14:10
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_181410279.png
+OCRSource: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-logs-final-58-20251128_181410279.png
+
+---- Alliance Logs OCR ----
+

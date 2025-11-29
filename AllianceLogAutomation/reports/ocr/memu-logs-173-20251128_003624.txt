@@ -1,0 +1,123 @@
+﻿Timestamp: 2025-11-28 00:36:24
+Index: 173
+ADB: 127.0.0.1:23233
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-final-173-20251128_003619943.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-crop-173-20251128_003620238.png
+
+---- Alliance Logs OCR ----
+* 141917 Fig Farm NISSU Was attacked DY FIQwin (A.W0e
+Y:512).
+
+* 14:19:12 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+14:19:01 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+* 14:18:56 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+14:18:52 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+* 14:18:43 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+2025-11-28
+
++ 13:29:56 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:29:54 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+13:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+
+14ST Pig Farm NISsU Was allaCKed DY riqwin |A.00z2e
+Â¥:512).
+
+* 14:19:12 Pig Farm Nissu was attacked by Pigwin (X:662
+Â¥:512).
+
+* 14:19:01 Pig Farm Nissu was attacked by Pigwin (X:662
+Â¥:512).
+
+* 14:18:56 Pig Farm Nissu was attacked by Pigwin (X:662
+Â¥:512).
+
+* 14:18:52 Pig Farm Nissu was attacked by Pigwin (X:662
+Â¥:512).
+
+* 14:18:43 Pig Farm Nissu was attacked by Pigwin (X:662
+Â¥:512).
+
+2025-11-28
+
+* 13:29:56 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 73:29:54 KO J Farm FFF4 was attacked by Aliah V (X:684
+Â¥:543).
+
+* 13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+Â¥:543).
+
+* 13:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+Â¥:543).
+
+S141917f Fig Farm NISSU Was GACKGG Dy Figwil (A006
+Y:512).
+* 14:19:12 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+* 14:19:01 Pig ie Nissu was attacked by Pigwin (X:662
+Y:512).
+
+sl"
+14:18:56 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
++ 14:18:52 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+Â© 14:18:43 Pig Farm Nissu was attacked by Pigwin (X:662
+
+* 14:18:43 Pig Farm Nissu was attacked by Pigwin (X:662
+Y:512).
+
+2025-11-28
+
+* 13:29:56 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+943).
+13:29:54 KO J Farm FFF4 was attacked by Aliah V (X:684
+* 13:29:23 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+ns
+
+13:29:21 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+* 43:29:00 KO J Farm FFF4 was attacked by Aliah V (X:684
+Y:543).
+
+Â¢ 13:28:58 KO J Farm FFF4 was attacked by Aliah V (X:684
+â€˜y-543)_
+
+Â«
+

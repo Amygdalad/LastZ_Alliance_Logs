@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 00:18:04
+Index: 59
+ADB: 127.0.0.1:22093
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-59-20251128_001804057.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-59-20251128_001804606.png
+
+---- Alliance Logs OCR (retry) ----
+easor Alliaru Mail ona to-Alliance'TechS O ti s (Complete) seasFarm007: Distress Signal [State 17...

@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 00:04:42
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-58-20251128_000442.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Hands Construction worker enables you to construct more buildings simultaneously. 120f1K 19:55:18 20 Ql.99

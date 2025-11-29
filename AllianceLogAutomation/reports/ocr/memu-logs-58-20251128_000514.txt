@@ -1,0 +1,8 @@
+﻿Timestamp: 2025-11-28 00:05:14
+Index: 58
+ADB: 127.0.0.1:22083
+Screenshot: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-58-20251128_000513681.png
+OCRSource: Z:\git\AI_Creations\reporting\AllianceLogAutomation\reports\screenshots\memu-logs-retry-crop-58-20251128_000514408.png
+
+---- Alliance Logs OCR (retry) ----
+450.3K "Älliaru Mail and Capture•.1.L . above Sands6üls Ware ho AMARGO FARM: AMARGO FARM's tre„.

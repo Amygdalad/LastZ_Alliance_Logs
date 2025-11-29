@@ -1,0 +1,1 @@
+# Alliance automation Python package

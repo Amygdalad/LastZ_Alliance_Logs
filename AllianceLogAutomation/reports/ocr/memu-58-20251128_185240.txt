@@ -1,0 +1,9 @@
+﻿Timestamp: 2025-11-28 18:52:41
+Index: 58
+ADB: 127.0.0.1:22083
+Package: com.readygo.barrel.gp
+Screenshot: Z:\git\LastZ_Alliance_Logs\AllianceLogAutomation\reports\screenshots\memu-58-20251128_185240.png
+DismissedBrightSpot: (none)
+
+---- OCR ----
+Katriö L endary hero Katrina'shere!Come witness the power to crush ever}ihing! 50 S4.99
